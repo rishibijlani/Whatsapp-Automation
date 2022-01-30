@@ -1,0 +1,370 @@
+1544950566861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GPe0iueP3KMt"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544950569444	Marionette	INFO	Listening on port 34867
+1544950569472	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1544952018869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.1LpQk5cZKiI4"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544952021214	Marionette	INFO	Listening on port 39441
+1544952021276	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 7092, Gecko_IOThread] WARNING: pipe error: Broken pipe: file /build/firefox-esr-6hwDON/firefox-esr-60.2.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1544952167836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ZS5WpJHuVNN0"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544952170210	Marionette	INFO	Listening on port 43871
+1544952170245	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1544952573562	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LMBzdBBYN4eB"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544952575854	Marionette	INFO	Listening on port 37557
+1544952575875	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1544953170534	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Y795M4Y8ySDh"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544953173014	Marionette	INFO	Listening on port 41243
+1544953173049	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 7650, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-esr-6hwDON/firefox-esr-60.2.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1544953403661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fDSwWagKWaR8"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544953406078	Marionette	INFO	Listening on port 45089
+1544953406166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544953744907	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.gGX6IgAgc1o1"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544953747210	Marionette	INFO	Listening on port 33531
+1544953747216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544953999198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.LdO2PDKDR71X"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544954001424	Marionette	INFO	Listening on port 44253
+1544954001505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954197112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.p9rb0UlkwR3h"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544954199394	Marionette	INFO	Listening on port 33203
+1544954199424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544954317496	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.3g5DTGO0QTGo"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544954319795	Marionette	INFO	Listening on port 43151
+1544954319805	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1544954726065	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.if2EITZdhjSh"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544954728223	Marionette	INFO	Listening on port 43965
+1544954728278	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1544955297710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.yrzGOYoAZtig"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544955299976	Marionette	INFO	Listening on port 33667
+1544955300020	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1544955493441	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.T3MtLaihSr83"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544955495512	Marionette	INFO	Listening on port 46235
+1544955495555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544955813411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fstyJhMmR4du"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544955815653	Marionette	INFO	Listening on port 37215
+1544955815727	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1544955951252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.UovjzhuKnDSd"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544955953430	Marionette	INFO	Listening on port 42677
+1544955953461	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1544956230069	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Cde4oVSF78oW"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544956232390	Marionette	INFO	Listening on port 34467
+1544956232475	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544963556044	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.END4nFZeK29x"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544963558372	Marionette	INFO	Listening on port 43565
+1544963558455	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+[Parent 10223, Gecko_IOThread] WARNING: pipe error (56): Connection reset by peer: file /build/firefox-esr-6hwDON/firefox-esr-60.2.1esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1544966249130	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WKRGjdnJj4sJ"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544966251467	Marionette	INFO	Listening on port 45013
+1544966251537	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544966590661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wHcRu6GGkwxX"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544966593015	Marionette	INFO	Listening on port 34417
+1544966593068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544966820351	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4imvPh7pRHEQ"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544966822704	Marionette	INFO	Listening on port 45239
+1544966822759	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544967274022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.N4jeLonJ2pfo"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544967276226	Marionette	INFO	Listening on port 36715
+1544967276229	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544967612307	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Gjvx1PyCmSqf"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544967614589	Marionette	INFO	Listening on port 44073
+1544967614621	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544967635782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SE56cNT93OgI"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544967638069	Marionette	INFO	Listening on port 38335
+1544967638092	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://web.whatsapp.com
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://web.whatsapp.com
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js, line 418: TypeError: node.offsetParent is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/client/inspector/rules/rules.js, line 418: TypeError: node.offsetParent is null
+console.log: Accessibility service init or shutdown observer does not exist.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1544970965255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hy6IEvwNlBlF"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544970967492	Marionette	INFO	Listening on port 41197
+1544970967564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544972174594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YpPY0EHuOepe"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544972176891	Marionette	INFO	Listening on port 38145
+1544972176902	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544972311362	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.SEuLywyJcnrM"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544972313732	Marionette	INFO	Listening on port 33631
+1544972313769	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://web.whatsapp.com
+1544973547960	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.J8XE3SNzU7BN"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544973550168	Marionette	INFO	Listening on port 40761
+1544973550266	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1544976663774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vlpSmRvIELiK"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544976666143	Marionette	INFO	Listening on port 42393
+1544976666188	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1544976813761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kCmG5Yqt5ign"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544976815880	Marionette	INFO	Listening on port 43933
+1544976815976	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1544977936016	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7OZnPWngBe2O"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544977938267	Marionette	INFO	Listening on port 45781
+1544977938326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544978281763	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.YdRThdAXWH1W"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544978284016	Marionette	INFO	Listening on port 35717
+1544978284073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544978419542	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.O29LDQS5uUfV"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544978421726	Marionette	INFO	Listening on port 42815
+1544978421749	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544978890205	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.byyOE5VY7jdh"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544978892421	Marionette	INFO	Listening on port 43289
+1544978892516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544979020522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.fkBzSpesCR5a"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544979022750	Marionette	INFO	Listening on port 42819
+1544979022832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544979173829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vlkJlBIhsqz9"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544979175918	Marionette	INFO	Listening on port 34909
+1544979175935	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544979484888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.OpyFljlvCQpD"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544979486948	Marionette	INFO	Listening on port 34285
+1544979486995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544979696546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KTDmKYx4RAus"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544979698812	Marionette	INFO	Listening on port 45343
+1544979698861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1544980907329	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.BouTQfKvQI2T"
+JavaScript error: jar:file:///usr/lib/firefox-esr/omni.ja!/components/addonsInfo.js, line 91: SyntaxError: "0"-prefixed octal literals and octal escape sequences are deprecated; for octal literals use the "0o" prefix instead
+1544980909608	Marionette	INFO	Listening on port 46013
+1544980909641	Marionette	WARN	TLS certificate errors will be ignored for this session
+                                                                             1615791088730	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5Hcyk2Dq7chG"
+1615791091549	Marionette	INFO	Listening on port 33415
+1615791091561	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615791278199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kJGPsRsbGlKh"
+1615791280204	Marionette	INFO	Listening on port 35941
+1615791280229	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+1615791447870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.AW44G9ItysbI"
+1615791450230	Marionette	INFO	Listening on port 37915
+1615791450278	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIHttpChannelInternal.remoteAddress]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/network-monitor/network-observer.js :: _onResponseHeader :: line 1080"  data: no]
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1080:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:583:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1080, column: 0
+Handler function threw an exception: TypeError: undefined has no properties
+Stack: _getWaitTiming@resource://devtools/server/actors/network-monitor/network-observer.js:1167:1
+_setupHarTimings@resource://devtools/server/actors/network-monitor/network-observer.js:1392:28
+_onTransactionClose@resource://devtools/server/actors/network-monitor/network-observer.js:1115:27
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:586:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:664:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1167, column: 1
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1615791589454	Marionette	INFO	Stopped listening on port 37915
+1615792035011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.X1q11wmd9eE4"
+1615792037384	Marionette	INFO	Listening on port 39153
+1615792037421	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615792341371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WzMub2SgPKeI"
+1615792343784	Marionette	INFO	Listening on port 40577
+1615792344816	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615792757527	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.GLh9kNsuZ0uq"
+1615792759729	Marionette	INFO	Listening on port 33515
+1615792759737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615792887773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.MzgsY7yBTtc6"
+1615792889693	Marionette	INFO	Listening on port 46683
+1615792889788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1615793144841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.5UQcAtnTU0gG"
+1615793146968	Marionette	INFO	Listening on port 45927
+1615793147049	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1615793264537	Marionette	INFO	Stopped listening on port 45927
+1615793414280	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9BmKTDzzDlO3"
+1615793416457	Marionette	INFO	Listening on port 34859
+1615793416485	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615793488700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Ojs9fUMJDGJ9"
+1615793490519	Marionette	INFO	Listening on port 38403
+1615793490606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615793622710	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vp3DhuKYdMiw"
+1615793624954	Marionette	INFO	Listening on port 38207
+1615793625908	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615795322607	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pOyVCV77IObw"
+1615795324857	Marionette	INFO	Listening on port 39351
+1615795324916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1615795516736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.iXpnIV8iWBcc"
+1615795518987	Marionette	INFO	Listening on port 33663
+1615795519048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1615795750786	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7iNFUHHAyin2"
+1615795752832	Marionette	INFO	Listening on port 39421
+1615795752896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1615796141490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.7t9pnGWmFTjw"
+1615796143404	Marionette	INFO	Listening on port 32879
+1615796143498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript error: , line 0: UnknownError: The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+1615796252502	Marionette	INFO	Stopped listening on port 32879
+1615796267444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.z2kYRJ3RXyt2"
+1615796269423	Marionette	INFO	Listening on port 38831
+1615796269452	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+1615796305282	Marionette	INFO	Stopped listening on port 38831
+1615796505141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.wxurSUYafWFd"
+1615796507197	Marionette	INFO	Listening on port 42941
+1615796507248	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+1615796704371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Kr9MjIc2u5st"
+1615796706451	Marionette	INFO	Listening on port 37377
+1615796706480	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1615796770962	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.WNLWdOJZfiro"
+1615796773085	Marionette	INFO	Listening on port 43321
+1615796773175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+JavaScript warning: https://web.whatsapp.com/bootstrap_qr.8c6bd07fd55e4b8fbdb7.js, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
